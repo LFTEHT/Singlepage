@@ -1,0 +1,220 @@
+header
+{
+    background-color:#002b45;
+}
+#menu ul li a
+{
+    color: #fff;
+    margin-right: 15px;
+}
+header h2
+{
+    font-size: 35px;
+    margin-top: 120px;
+    margin-bottom: 42px;
+}
+.banner-img
+{
+    margin-top: 23px;
+    margin-bottom: 40px;
+}
+.About-section h3
+{
+    margin: 35px 0px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.About-section p
+{
+    padding: 7px 0px;
+    line-height: 25px;
+}
+.About-section li
+{
+    list-style: none;
+    padding:5px 0px;
+}
+.About-section #btn
+{
+    margin-top: 10px;
+}
+.our-service
+{
+    background-color: rgb(243, 241, 241);
+    padding: 5px 0px;
+}
+.our-service h2
+{
+    padding-bottom: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.img-course
+{
+    background-color: rgb(43, 8, 238);
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    display: table;
+    margin: auto;
+    line-height: 150px;
+}
+.card img
+{
+    height: 120px;
+    width: 120px;
+}
+.our-service .card
+{
+    margin-top:25px 0px;
+}
+.servicefade
+{
+    transition: 1s;
+}
+.servicefade:hover
+{
+    transform: translateY(-5px);
+}
+.call-to
+{
+    background-color:#002b45;
+    padding: 20px 0px;
+}
+.call-to h2
+{
+    color: white;
+    margin-top: 40px;
+}
+.call-to p
+{
+    color: white;
+    margin-top: 25px;
+}
+.btn-callto
+{
+    margin-top: 130px;
+    padding: 10px 30px;
+    border-radius: 20px;
+}
+.Team
+{
+    margin-top: 25px;
+    margin-bottom: 20px;
+    background-color: rgb(243, 241, 241);
+}
+.Team p
+{
+    padding: 20px 0px;
+}
+.Team img
+{
+    padding: 20px 0px;
+    border-radius: 50%;
+}
+.teamLeader
+{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.teamLeader>h4
+{
+    color: #1022c7;
+}
+.teamLeader>h6
+{
+    color: #1f31cf;
+}
+.teamimg
+{
+    margin-top: 39px;
+    margin-left: 20px;
+}
+.border-in
+{
+    width: 80px;
+    border-top: 2px solid grey;
+}
+.card-team
+{
+    box-shadow: 0px 0px 10px 2px rgb(177, 175, 175);
+    transition: 1s;
+}
+.card-team:hover
+{
+    transform: translateY(-5px);
+}
+.s-link
+{
+    margin-bottom: 10px;
+}
+.s-link i
+{
+    height: 25px;
+    width: 25px;
+    background-color: #1f31cf; ;
+    color: white;
+    text-align: center;
+    line-height: 25px;
+    border-radius: 50%;
+}
+.contactUS
+{
+    border-top: 2px solid green;
+    border-bottom: 2px solid green;
+    box-shadow: 0px 0px 10px 2px grey;
+    margin-top: 20px;
+}
+.contactUS>h4
+{
+    padding: 15px 35px 10px 35px;
+    
+}
+.contactUS>p
+{
+    padding: 15px 35px 10px 35px;
+    
+}
+.btn-message
+{
+    padding: 10px 15px;
+    border-radius: 50px;
+}
+.footer
+{
+    background-color: rgb(243, 241, 241);
+    padding: 5px 0px;
+    margin-top: 25px;
+
+}
+.footer>h4
+{
+    color:#1f2c9c;
+    padding: 0px 7px
+}
+footer>ul
+{
+    list-style: none;
+}
+.footer-menu{
+    list-style: none;
+}
+.footer-menu li
+{
+    padding: 8px;
+}
+.footerend
+{
+    background-color:#002b45;
+}
+.footertext
+{
+    color: white;
+    padding: 10px 20px;
+    margin-top: 20px;
+}
+.left-align
+{
+    text-align: right;
+}
+
+ 
